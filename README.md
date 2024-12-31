@@ -53,5 +53,5 @@ original poster's perspective? Your goal is to provide compelling reasoning
 that challenges their viewpoint and encourages a shift in their perspective.
 Topics: "{List of top relevant topics}".
 Instructions for the Model:
-1. Think step by step to ensure logical progression.
-2. Provide a detailed and structured response based on the related topics.
+        1. Think step by step to ensure logical progression.
+        2. Provide a detailed and structured response based on the related topics.
